@@ -6,6 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fulller/NodeJSBasic.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fulller/NodeJSBasic/issues"
+  },
+  "homepage": "https://github.com/Fulller/NodeJSBasic#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  }
 }
